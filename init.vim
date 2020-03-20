@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'jiangmiao/auto-pairs'
 Plug 'majutsushi/tagbar'
 Plug 'dikiaap/minimalist'
 Plug 'gagoar/stripwhitespaces'

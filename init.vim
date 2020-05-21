@@ -1,5 +1,5 @@
 call plug#begin()
-Plug 'jiangmiao/auto-pairs'
+Plug 'mattn/emmet-vim'
 Plug 'majutsushi/tagbar'
 Plug 'dikiaap/minimalist'
 Plug 'gagoar/stripwhitespaces'

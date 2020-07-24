@@ -44,6 +44,7 @@ noremap <leader>n :NERDTreeToggle<CR>
 noremap <leader>t :TagbarToggle<CR>
 noremap <leader>b :CtrlPBuffer<CR>
 noremap <leader>r :AsyncRun<SPACE>
+noremap <leader>m :!cd build && make && cd ..<CR>
 
 let g:asyncrun_open=10
 let g:NERDTreeShowHidden=1

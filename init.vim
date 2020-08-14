@@ -1,4 +1,5 @@
 call plug#begin()
+Plug 'leafgarland/typescript-vim'
 Plug 'mattn/emmet-vim'
 Plug 'majutsushi/tagbar'
 Plug 'dikiaap/minimalist'
@@ -34,8 +35,8 @@ colorscheme minimalist
 
 set autoindent
 set smartindent
-set shiftwidth=2
-set tabstop=2
+set shiftwidth=4
+set tabstop=4
 set softtabstop=0
 set expandtab
 set smarttab

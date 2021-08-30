@@ -8,6 +8,7 @@ Plug 'rking/ag.vim'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
+Plug 'maxmellon/vim-jsx-pretty'
 
 function! BuildYCM(info)
   " info is a dictionary with 3 fields

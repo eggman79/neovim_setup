@@ -8,7 +8,7 @@ Plug 'rking/ag.vim'
 Plug 'ctrlpvim/ctrlp.vim'
 Plug 'vim-airline/vim-airline'
 Plug 'tpope/vim-fugitive'
-
+Plug 'lukas-reineke/indent-blankline.nvim'
 Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug 'scrooloose/nerdtree'
 Plug 'skywind3000/asyncrun.vim'

@@ -15,6 +15,9 @@ Plug 'https://github.com/junegunn/vim-github-dashboard.git'
 Plug 'scrooloose/nerdtree'
 Plug 'skywind3000/asyncrun.vim'
 Plug 'vim-scripts/a.vim'
+Plug 'yuezk/vim-js'
+Plug 'HerringtonDarkholme/yats.vim'
+Plug 'maxmellon/vim-jsx-pretty'
 call plug#end()
 
 set number

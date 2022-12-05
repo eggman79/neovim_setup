@@ -35,6 +35,11 @@ set softtabstop=0
 set expandtab
 set smarttab
 
+highlight BookmarkSign ctermbg=NONE ctermfg=160
+highlight BookmarkLine ctermbg=194 ctermfg=NONE
+let g:bookmark_sign = '♥'
+let g:bookmark_highlight_lines = 1
+
 noremap <leader>n :NERDTreeToggle<CR>
 noremap <leader>t :TagbarToggle<CR>
 noremap <leader>b :CtrlPBuffer<CR>

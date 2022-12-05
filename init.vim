@@ -18,6 +18,7 @@ Plug 'vim-scripts/a.vim'
 Plug 'yuezk/vim-js'
 Plug 'HerringtonDarkholme/yats.vim'
 Plug 'maxmellon/vim-jsx-pretty'
+Plug 'MattesGroeger/vim-bookmarks'
 call plug#end()
 
 set number

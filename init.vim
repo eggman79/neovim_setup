@@ -34,6 +34,7 @@ set tabstop=2
 set softtabstop=0
 set expandtab
 set smarttab
+setlocal cindent cino=j1,(0,ws,Ws
 
 highlight BookmarkSign ctermbg=NONE ctermfg=160
 highlight BookmarkLine ctermbg=194 ctermfg=NONE

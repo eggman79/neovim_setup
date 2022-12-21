@@ -13,6 +13,4 @@ mkdir -p ~/.config/nvim/
 cp -rvf init.vim ~/.config/nvim
 cp -rvf coc-settings.json ~/.config/nvim/
 nvim +PlugInstall +qall
-cd ~/.config/nvim/plugged/coc.nvim
-yarn install
 cd "$curr_dir"

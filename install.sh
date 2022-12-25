@@ -13,4 +13,7 @@ mkdir -p ~/.config/nvim/
 cp -rvf init.vim ~/.config/nvim
 cp -rvf coc-settings.json ~/.config/nvim/
 nvim +PlugInstall +qall
+curl https://raw.githubusercontent.com/creationix/nvm/master/install.sh | bash
+source ~/.nvm/nvm.sh
+nvm install 19
 cd "$curr_dir"

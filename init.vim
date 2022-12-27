@@ -27,6 +27,7 @@ set relativenumber
 syntax on
 colorscheme minimalist
 
+set cursorline
 set autoindent
 set smartindent
 set shiftwidth=3
